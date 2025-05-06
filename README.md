@@ -41,5 +41,13 @@ Throughout the entire process, real-time updates are streamed to the client usin
 
 4. Find the MP3 in the downloads/ folder.
 
+## 🐳 Run with Docker
+
+Pull the image from Docker Hub:
+
+```
+docker pull blackdragon21/youtube-to-mp3-via-http:latest
+```
+
 ## Legal Disclaimer
 >⚠️ This tool is intended for educational purposes only. Downloading content without permission may violate YouTube's terms of service. Use at your own discretion.
