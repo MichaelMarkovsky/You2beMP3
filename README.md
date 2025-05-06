@@ -42,6 +42,15 @@ Throughout the entire process, real-time updates are streamed to the client usin
 4. Find the MP3 in the downloads/ folder.
 
 ## 🐳 Run with Docker
+Docker build:
+```
+docker build --tag python-docker .
+```
+Docker run:
+```
+docker run -d -p 5000:5000 python-docker
+```
+
 
 Pull the image from Docker Hub:
 
