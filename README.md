@@ -41,4 +41,5 @@ Throughout the entire process, real-time updates are streamed to the client usin
 
 4. Find the MP3 in the downloads/ folder.
 
+## Legal Disclaimer
 >⚠️ This tool is intended for educational purposes only. Downloading content without permission may violate YouTube's terms of service. Use at your own discretion.
