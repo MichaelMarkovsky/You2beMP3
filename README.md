@@ -42,17 +42,18 @@ Throughout the entire process, real-time updates are streamed to the client usin
 4. Find the MP3 in the downloads/ folder.
 
 ## 🐳 Run with Docker
+1. You can build and run locally with `docker build` and `docker run`:
 Docker build:
 ```
-docker build --tag python-docker .
+docker build --tag <DOCKER_IMAGE_NAME> .
 ```
 Docker run:
 ```
-docker run -d -p 5000:5000 python-docker
+docker run -d -p 5000:5000 <DOCKER_IMAGE_NAME>
 ```
 
 
-Pull the image from Docker Hub:
+2. Or Pull the image from Docker Hub:
 
 ```
 docker pull blackdragon21/youtube-to-mp3-via-http:latest
