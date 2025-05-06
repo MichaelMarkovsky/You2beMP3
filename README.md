@@ -18,7 +18,7 @@
 - Lightweight and minimal dependencies.
 
 ## Overview
-The app performs reverse engineering of an obfuscated JavaScript file that is loaded during the site’s initial request. This script is responsible for generating a critical cookie, which is Base64-encoded and obscured through deliberate code obfuscation. The cookie must be extracted and decoded to proceed.
+The app performs a decoding of an obfuscated JavaScript file that is loaded during the site’s initial request. This script is responsible for generating a critical cookie, which is Base64-encoded and obscured through deliberate code obfuscation. The cookie must be extracted and decoded to proceed.
 
 The conversion process involves three main HTTP requests:
 
