@@ -2,7 +2,7 @@
 
 >This project is a lightweight Flask web app that lets users convert YouTube videos to MP3 by interacting with y2mate.nu through direct HTTP requests - no browser automation or third-party APIs required.
 
-![project_img](https://github.com/user-attachments/assets/68455d33-8166-4861-a3c3-4228c5e5516b)
+![project_img](./assets/you2bemp3_thumbail.jpg)
 
 ## Fetures
 - No browser automation (headless or otherwise).
